@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {"id": 1, "title": "Post 1", "content": "Content Post 1", "slug": "post-1"},
+        {"id": 2, "title": "Post 2", "content": "Content Post 2", "slug": "post-2"},
+        {"id": 3, "title": "Post 3", "content": "Content Post 3", "slug": "post-3"}
+    ],
+    "settings": {
+        "siteName": "Wildan Blog"
+    }
+}
